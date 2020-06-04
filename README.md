@@ -11,3 +11,7 @@ Step 2: Compute the SVD of (6.39), and let ![](https://latex.codecogs.com/gif.la
 Step 3: Obtain C and A from (6.41) and (6.42), respectively.
 
 Step 4: Solve (6.44) by the least-squares method to estimate B and D .
+
+
+You can enter see the code complete in python:
+MOESP_ALGORITHM.ipynb
