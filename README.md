@@ -14,5 +14,5 @@ Step 4: Solve (6.44) by the least-squares method to estimate B and D .
 
 
 You can enter see the code complete in python:
-[MOESP](https://github.com/Jean-Pierre-LV/N4SID-and-MOESP/blob/master/MOESP_ALGORITHM.ipynb)
-MOESP_ALGORITHM.ipynb
+[MOESP_ALGORITHM.ipynb](https://github.com/Jean-Pierre-LV/N4SID-and-MOESP/blob/master/MOESP_ALGORITHM.ipynb)
+
