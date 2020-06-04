@@ -13,6 +13,6 @@ Step 3: Obtain C and A from (6.41) and (6.42), respectively.
 Step 4: Solve (6.44) by the least-squares method to estimate B and D .
 
 
-You can enter see the code complete in python:
+You can enter see the code complete in python and use as a reference:
 [MOESP_ALGORITHM.ipynb](https://github.com/Jean-Pierre-LV/N4SID-and-MOESP/blob/master/MOESP_ALGORITHM.ipynb)
 
